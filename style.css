@@ -17,10 +17,23 @@
         padding: 0 20px;
     }
 
-    p {
-        left: 50%;
-        margin: 0 auto;
+/* Text body */
+
+    h1 {
+        font-weight: bold;
+    }
+
+    .strophes {
         text-align: left;
+    }
+
+    span {
+        font-style: italic;
+    }
+
+    .source {
+        color: gray;
+        font-size: small;
     }
 
 /* Body */
